@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frame-by-Frame Animation and Splash Screen with Twin Animation
 
 ## AIM
@@ -768,3 +769,6 @@ This Android application demonstrates two important types of traditional Android
 **Tween/Twin animation** modifies properties such as position, size, rotation and transparency using `<translate>`, `<scale>`, `<rotate>` and `<alpha>`. These animations can be combined using `<set>`.
 
 The project also demonstrates a splash screen, immersive mode, edge-to-edge content, animation listeners, Activity transitions, `finish()`, and conversion of SVG graphics into Android Vector Drawable XML.
+=======
+# practical-6
+>>>>>>> 1b6b4732ab3771edf9e86f8d70138c71f667ed9d
